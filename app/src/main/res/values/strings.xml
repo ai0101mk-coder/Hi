@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Visual Explorer</string>
+    <string name="browse_title">Browse</string>
+    <string name="recent_title">Recent</string>
+    <string name="search_hint">Search files, folders, APKs…</string>
+    <string name="sources_heading">Sources</string>
+    <string name="cat_docs">Docs</string>
+    <string name="cat_images">Images</string>
+    <string name="cat_videos">Videos</string>
+    <string name="cat_music">Music</string>
+    <string name="cat_archives">Archives</string>
+    <string name="cat_apks">APKs</string>
+    <string name="qa_downloads">Downloads</string>
+    <string name="qa_favourites">Favourites</string>
+    <string name="qa_my_phone">My Phone</string>
+    <string name="src_camera">Camera</string>
+    <string name="src_screenshots">Screenshots &amp; screen recordings</string>
+    <string name="src_recorder">Recorder</string>
+    <string name="src_dual_apps">Dual apps</string>
+    <string name="src_telegram">Telegram</string>
+    <string name="grant_storage_title">Enable All Files Access</string>
+    <string name="grant_storage_desc">Grant full storage permission to browse, move, rename, extract archives, and install APKs.</string>
+    <string name="grant_access_cta">Grant Access</string>
+</resources>

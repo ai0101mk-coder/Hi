@@ -1,0 +1,6 @@
+{
+  "name": "Visual Explorer",
+  "description": "Modern Android File Manager with vibrant aurora glassmorphism, category filters, storage management, and built-in media, PDF, archive, and APK previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
